@@ -69,8 +69,8 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`nim`, `nama`, `prodi`) VALUES
-('1501530065', 'Candra Dwi Saputra', 'TI-S1'),
-('1501530082', 'Endy Suryo Laksono', 'TI-S1'),
+('1501530078', 'Candra Dwi Saputra', 'TI-S1'),
+('1501530010', 'Endy Suryo Laksono', 'TI-S1'),
 
 -- --------------------------------------------------------
 
